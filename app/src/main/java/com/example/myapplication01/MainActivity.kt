@@ -12,6 +12,9 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.myapplication01.ui.theme.MyApplication01Theme
 
+//The FULL Beginner Guide for Room in Android | Local Database Tutorial for Android
+//https://www.youtube.com/watch?v=bOd3wO0uFr8
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
